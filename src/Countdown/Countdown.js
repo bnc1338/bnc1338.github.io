@@ -50,7 +50,7 @@ function Countdown() {
           <Model3D/>
         </div>
         <div className='content-footer'>
-          <h1 style={{textAlign:"center", color:"white", fontWeight:"350", fontSize:30}}>Join the <span style={{color:"#F7C542"}}>fitness</span> revolution!</h1>
+          <h1>Join the <span style={{color:"#F7C542"}}>fitness</span> revolution!</h1>
           <div className='subscribe-container'>
           <input type='text' className='left-side' placeholder='Type your email...' />
             <div className='right-side'>
