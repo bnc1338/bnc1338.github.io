@@ -1,0 +1,15 @@
+.Model3D {
+    height: 60vh;
+    max-height: 500px;
+    width: auto;
+    margin: auto;
+    position: absolute;
+}
+
+/* Media query for viewport heights less than 700px */
+@media (max-height: 800px) {
+    .Model3D {
+        height: 50vh; /* Adjust this value as needed */
+        max-height: 350px; /* Adjust this value as needed */
+    }
+}
