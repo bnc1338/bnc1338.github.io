@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bnc1338.github.io/static/css/main.e8293699.css",
+    "main.js": "/bnc1338.github.io/static/js/main.5e75d903.js",
+    "static/js/453.7cc4ac12.chunk.js": "/bnc1338.github.io/static/js/453.7cc4ac12.chunk.js",
+    "static/media/pumpedTextPlainLogo.png": "/bnc1338.github.io/static/media/pumpedTextPlainLogo.ad5eaf5d0b528e5e858b.png",
+    "index.html": "/bnc1338.github.io/index.html",
+    "main.e8293699.css.map": "/bnc1338.github.io/static/css/main.e8293699.css.map",
+    "main.5e75d903.js.map": "/bnc1338.github.io/static/js/main.5e75d903.js.map",
+    "453.7cc4ac12.chunk.js.map": "/bnc1338.github.io/static/js/453.7cc4ac12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8293699.css",
+    "static/js/main.5e75d903.js"
+  ]
+}
